@@ -231,7 +231,7 @@ The supplied challenge validator is then used to catch submission-format problem
 ### 1. Clone
 
 ```bash
-git clone https://github.com/Sashank096/AWS-ML-HACKATHON.git
+git clone https://github.com/Sashankkotana14/AWS-ML-HACKATHON.git
 cd AWS-ML-HACKATHON
 ```
 
